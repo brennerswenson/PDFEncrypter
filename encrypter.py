@@ -7,13 +7,6 @@ import subprocess
 from textwrap import TextWrapper
 import sys
 
-# # sets terminal window dimensions
-#
-# os.system('mode con: cols=100 lines=20')
-
-# terminal colors
-
-
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
